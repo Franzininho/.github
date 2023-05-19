@@ -9,7 +9,7 @@ Com uma comunidade engajada, acreditamos que projetos open source, materiais did
 Venha ajudar no desenvolvimento desse projeto. Você pode contriuir de diversas formas. Por exemplo:
 - Dicas e sugestões;
 - Revisão do materiais e documentação;
-- Desenvoolvimento de firmware e bibliotecas;
+- Desenvolvimento de firmware e bibliotecas;
 - desenvolvimento e hardware;
 - Oficinas;
 - Patrocínio;
